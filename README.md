@@ -71,7 +71,7 @@ for node, data in G.nodes(data=True):
 print("\nGraph Edges with Attributes:")
 for u, v, data in G.edges(data=True):
     print(f"Edge: {u} -> {v}, Weight: {data.get('weight')}")
-
+```
 
 If you want to construct the railway network manually, you can use the provided **Node List (`*_node_list.txt`)** and **Edge List (`*_edge_list.txt`)**. These files provide station information and connections between stations, respectively.
 
@@ -112,5 +112,5 @@ for node, data in G.nodes(data=True):
 print("\nGraph Edges with Attributes:")
 for u, v, data in G.edges(data=True):
     print(f"Edge: {u} -> {v}, Weight: {data.get('weight')}")
-
+```
 
