@@ -24,8 +24,71 @@ This repository contains the following files and folders:
   - `Seoul_Metropolitan_Line_1.pkl`
 
 ---
+## Data list 
+### 🚇 **도시철도**
 
-## 🛠 How to Use
+#### 수도권
+- **경강선**: `Gyeonggang_Line`
+- **경의중앙선**: `Gyeongui-Jungang_Line`
+- **경인선**: `Gyeongin_Line`
+- **경춘선**: `Gyeongchun_Line`
+- **분당선**: `Bundang_Line`
+- **서해선**: `Seohae_Line`
+- **수도권 1호선**: `Seoul_Metropolitan_Line_1`
+- **수도권 2호선 (성수지선)**: `Seoul_Metropolitan_Line_2_(Seongsu_Branch)`
+- **수도권 2호선 (순환선)**: `Seoul_Metropolitan_Line_2_(Main_Loop)`
+- **수도권 2호선 (신정지선)**: `Seoul_Metropolitan_Line_2_(Sinjeong_Branch)`
+- **수도권 3호선**: `Seoul_Metropolitan_Line_3`
+- **수도권 4호선**: `Seoul_Metropolitan_Line_4`
+- **수도권 5호선**: `Seoul_Metropolitan_Line_5`
+- **수도권 6호선**: `Seoul_Metropolitan_Line_6`
+- **수도권 7호선**: `Seoul_Metropolitan_Line_7`
+- **수도권 8호선**: `Seoul_Metropolitan_Line_8`
+- **수도권 9호선**: `Seoul_Metropolitan_Line_9`
+- **수도권 경량도시철도 에버라인**: `Seoul_Metropolitan_Light_Rail_Everline`
+- **수도권 경량도시철도 신림선**: `Seoul_Metropolitan_Light_Rail_Sillim_Line`
+- **수도권 경량도시철도 우이신설선**: `Seoul_Metropolitan_Light_Rail_Ui-Sinseol_Line`
+
+#### 인천
+- **인천국제공항선**: `Incheon_Airport_Line`
+- **인천지하철 1호선**: `Incheon_Metro_Line_1`
+- **인천지하철 2호선**: `Incheon_Metro_Line_2`
+
+#### 경기
+- **안산·과천선**: `Ansan-Gwacheon_Line`
+- **수인선**: `Suin_Line`
+- **신분당선**: `Shinbundang_Line`
+- **일산선**: `Ilsan_Line`
+- **의정부 경전철**: `Uijeongbu_Light_Rail`
+
+#### 대전
+- **대전 도시철도 1호선**: `Daejeon_Metro_Line_1`
+
+#### 대구
+- **대구 도시철도 1호선**: `Daegu_Metro_Line_1`
+- **대구 도시철도 2호선**: `Daegu_Metro_Line_2`
+- **대구 도시철도 3호선**: `Daegu_Metro_Line_3`
+
+#### 부산
+- **부산 경량도시철도 4호선**: `Busan_Gimhae_Light_Rail_Transit_(Line_4)`
+- **부산 도시철도 1호선**: `Busan_Metro_Line_1`
+- **부산 도시철도 2호선**: `Busan_Metro_Line_2`
+- **부산 도시철도 3호선**: `Busan_Metro_Line_3`
+
+#### 광주
+- **광주 도시철도 1호선**: `Gwangju_Metro_Line_1`
+
+---
+
+### 🚄 **고속철도**
+- **경부선**: `Gyeongbu_Line`
+- **경원선**: `Gyeongwon_Line`
+- **동해선**: `Donghae_Line`
+- **진접선**: `Jinjeop_Line`
+- **김포골드라인**: `Gimpo_Gold_Line`
+- **자기부상철도**: `Maglev_Train`
+- ---
+### 🛠 How to Use
 
 ### 1. Data Structure
 
